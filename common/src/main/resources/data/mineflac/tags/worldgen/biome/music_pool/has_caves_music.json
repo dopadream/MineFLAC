@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "id": "clifftree:caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:cold_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:frozen_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:lukewarm_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:inferno",
+      "required": false
+    }
+  ]
+}

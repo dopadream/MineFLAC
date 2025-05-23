@@ -1,0 +1,170 @@
+{
+	"music.overworld.snowy": {
+		"sounds": [
+			{
+				"name": "minecraft:music/game/haggstrom",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/subwoofer_lullaby",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/snow/excuse",
+				"stream": true,
+				"weight": 3
+			},
+			{
+				"name": "minecraft:music/game/snow/flake",
+				"stream": true,
+				"weight": 3
+			},
+			{
+				"name": "minecraft:music/game/snow/ki",
+				"stream": true,
+				"weight": 3
+			},	
+			{
+				"name": "minecraft:music/game/snow/kyoto",
+				"stream": true,
+				"weight": 3
+			},
+			{
+				"name": "minecraft:music/game/broken_clocks",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/living_mice",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/mice_on_venus",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/minecraft",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/sweden",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.caves": {
+		"sounds": [
+			{
+				"name": "minecraft:music/game/an_ordinary_day",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/infinite_amethyst",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/danny",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/deeper",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/eld_unknown",
+				"stream": true,
+				"weight": 2
+			},
+			{
+				"name": "minecraft:music/game/endless",
+				"stream": true,
+				"weight": 2
+			},
+			{
+				"name": "minecraft:music/game/key",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/oxygene",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/pokopoko",
+				"stream": true,
+				"weight": 2
+			},
+			{
+				"name": "minecraft:music/game/subwoofer_lullaby",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/wending",
+				"stream": true,
+				"weight": 2
+			},
+			{
+				"name": "minecraft:music/game/caves/mau5cave",
+				"stream": true,
+				"weight": 5
+			}
+		]
+	},
+	"music.overworld.night": {
+		"sounds": [
+			{
+				"name": "minecraft:music.game",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:music/game/night/impostor_syndrome",
+				"stream": true,
+				"weight": 4
+			},
+			{
+				"name": "minecraft:music/game/night/pr_department",
+				"stream": true,
+				"weight": 4
+			},
+			{
+				"name": "minecraft:music/game/night/post_success_depression",
+				"stream": true,
+				"weight": 4
+			}
+		]
+	},
+	"music.overworld.rain": {
+		"sounds": [
+			{
+				"name": "minecraft:music.game",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:music/game/rain/lost_cousins",
+				"stream": true,
+				"weight": 5
+			},
+			{
+				"name": "minecraft:music/game/rain/one_last_game",
+				"stream": true,
+				"weight": 5
+			}
+		]
+	},
+	"music.overworld.rain_night": {
+		"sounds": [
+			{
+				"name": "mineflac:music.overworld.night",
+				"type": "event"
+			},
+			{
+				"name": "minecraft:music/game/rain_night/diskdance",
+				"stream": true,
+				"weight": 5
+			},
+			{
+				"name": "minecraft:music/game/rain_night/swarms",
+				"stream": true,
+				"weight": 5
+			}
+		]
+	}
+}

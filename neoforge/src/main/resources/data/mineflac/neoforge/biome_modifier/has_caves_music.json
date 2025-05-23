@@ -1,0 +1,5 @@
+{
+  "type": "mineflac:caves_biome_modifier",
+  "biomes": "#mineflac:music_pool/has_snowy_music",
+  "value": 1
+}
