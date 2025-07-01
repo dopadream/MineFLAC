@@ -5,7 +5,7 @@ license = "MIT"
 
 [[mods]]
 modId = "mineflac"
-version = "1.0.0-1.21.5"
+version = "1.0.1-1.21.6"
 displayName = "MineFLAC"
 authors = "dopadream"
 description = '''
@@ -16,21 +16,21 @@ logoFile = "mod_icon.png"
 [[dependencies.mineflac]]
 modId = "neoforge"
 type = "required"
-versionRange = "[21.5,)"
+versionRange = "[21.6,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.mineflac]]
 modId = "minecraft"
 type = "required"
-versionRange = "[1.21.5,)"
+versionRange = "[1.21.6,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.mineflac]]
 modId = "architectury"
 type = "required"
-versionRange = "[16.1.4,)"
+versionRange = "[17.0.6,)"
 ordering = "AFTER"
 side = "BOTH"
 
