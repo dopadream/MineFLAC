@@ -45,6 +45,11 @@
 				"name": "music/game/creative/moog_city",
 				"stream": true,
 				"weight": 3
+			},
+			{
+				"name": "music/game/creative/buildup_errors",
+				"stream": true,
+				"weight": 3
 			}
 		]
 	},

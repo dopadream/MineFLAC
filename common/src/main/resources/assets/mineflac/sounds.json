@@ -15,6 +15,11 @@
 				"weight": 3
 			},
 			{
+				"name": "minecraft:music/game/snow/drunken_carboni",
+				"stream": true,
+				"weight": 3
+			},
+			{
 				"name": "minecraft:music/game/snow/flake",
 				"stream": true,
 				"weight": 3
@@ -103,6 +108,11 @@
 			},
 			{
 				"name": "minecraft:music/game/caves/mau5cave",
+				"stream": true,
+				"weight": 5
+			},
+			{
+				"name": "minecraft:music/game/caves/wooden_love",
 				"stream": true,
 				"weight": 5
 			}

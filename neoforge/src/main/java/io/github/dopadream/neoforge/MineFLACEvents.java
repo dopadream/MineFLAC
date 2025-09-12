@@ -7,7 +7,7 @@ import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 
-@EventBusSubscriber(modid = MineFLAC.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
+@EventBusSubscriber(modid = MineFLAC.MOD_ID)
 public class MineFLACEvents {
     @SubscribeEvent
     public static void onCommonSetup(FMLCommonSetupEvent event) {
